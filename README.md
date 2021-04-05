@@ -1,1 +1,2 @@
 # Fuel-Loading-Scenario-Selector
+This code computes the closest forest residue type to the user provided data which can be used to create predictive vegetation wildfire hazard conditions for the Pacific Northwest, more specifically western Washington. Baseline data is based on the US Forest Service's "Photo Series for Quantifying Natural Forest Residues in Common Vegetation Types of the Pacific Northwest" (1980). 
